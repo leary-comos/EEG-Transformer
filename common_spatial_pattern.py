@@ -73,4 +73,3 @@ def csp(data_train, label_train):
 
     return Wb
 
-
