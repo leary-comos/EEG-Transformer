@@ -72,4 +72,3 @@ def csp(data_train, label_train):
     # Not significant difference, 2r could be better.
 
     return Wb
-
